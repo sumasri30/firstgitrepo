@@ -1,1 +1,5 @@
-
+$a = 1
+while ($a -lt 6){
+    Write-Host "this is :$a"
+    $a = $a+1
+}

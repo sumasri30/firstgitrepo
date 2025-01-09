@@ -1,1 +1,1 @@
-Write-Host "This is powershell file generated in remote repository"
+Write-Host "This is powershell file generated in remote repository
